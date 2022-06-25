@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @hms20112015
-- 👀 I’m interested in all things data science, analytics and complex data problems
-- 🌱 I’m currently learning about neural networks and how to implement and build neural networks in python, particularly related to text and image recongition 
-and optimal architecture of such 
-- 💞️ I’m looking to collaborate on data science and analytics projects related to healthcare, real estate or finance 
+- 👀 I’m interested in all things data, analytics and building complex + distributed systems. 
+- 🌱 I’m currently learning about web3, smart contracts, oracles and all things blockchain. 
+- 💞️ I’m looking to collaborate on data / analytics / blockchain / web3 development 
 - 📫 How to reach me hms2015@alumni.unc.edu 
 
 <!---
