@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @hms20112015
 - 👀 I’m interested in all things data, analytics and building complex + distributed systems. 
-- 🌱 I’m currently learning about web3, smart contracts, oracles and all things blockchain. 
-- 💞️ I’m looking to collaborate on data / analytics / data science / genAI / LLMing etc.
+- 🌱 I’m currently learning about LLMs and how to effectively deploy RAG-based applications. 
+- 💞️ I’m looking to collaborate on data / analytics / data science / GenAI / LLMing etc.
 - 📫 How to reach me hms2015@alumni.unc.edu 
 
 <!---
